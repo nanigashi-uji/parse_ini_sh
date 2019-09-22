@@ -3,6 +3,7 @@
 #
 #    parse_ini.sh
 #       ---- Read .ini file and output with shell variable definitions.
+#    Nanigashi Uji (53845049+nanigashi-uji@users.noreply.github.com)
 #
 function parse_ini () {
     # Prepare Help Messages
